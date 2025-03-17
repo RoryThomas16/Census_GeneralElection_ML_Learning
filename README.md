@@ -63,6 +63,8 @@ The Notebook has been run with the following libraries:
 * Seaborn
 * Matplotlib
 * Imblearn
+* SciPy
+* statsmodels
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
