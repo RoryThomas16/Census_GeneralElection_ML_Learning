@@ -1,525 +1,116 @@
-Truth,Prediction,Match
-PC,PC,True
-Lab,Con,False
-Green,Green,True
-Green,Green,True
-Ind,Ind,True
-Green,Green,True
-Con,Con,True
-Ind,Ind,True
-Ind,Ind,True
-LD,LD,True
-Con,Con,True
-Ind,Ind,True
-Con,Con,True
-Ind,Ind,True
-Green,Green,True
-Con,Con,True
-Green,Green,True
-Con,Con,True
-LD,LD,True
-Lab,Lab,True
-Ind,Ind,True
-Ind,Ind,True
-Lab,Ind,False
-Lab,RUK,False
-LD,LD,True
-Ind,Ind,True
-Ind,Ind,True
-PC,PC,True
-Lab,Lab,True
-Green,Green,True
-Con,Con,True
-Con,Con,True
-RUK,RUK,True
-RUK,RUK,True
-Con,Con,True
-PC,PC,True
-Con,LD,False
-LD,LD,True
-Ind,Ind,True
-LD,LD,True
-RUK,RUK,True
-Lab,Lab,True
-LD,LD,True
-Green,Green,True
-PC,PC,True
-RUK,RUK,True
-LD,LD,True
-RUK,RUK,True
-LD,LD,True
-Green,Green,True
-Con,Con,True
-Ind,Ind,True
-Ind,Ind,True
-Green,Green,True
-PC,PC,True
-LD,LD,True
-Ind,Ind,True
-Lab,LD,False
-Lab,Lab,True
-Green,Green,True
-PC,PC,True
-PC,PC,True
-Con,Con,True
-Lab,Lab,True
-Green,Green,True
-Ind,Ind,True
-Lab,Lab,True
-Lab,Con,False
-Con,Con,True
-Green,Green,True
-PC,PC,True
-Green,Green,True
-Green,Green,True
-Con,Con,True
-Con,Con,True
-LD,LD,True
-RUK,RUK,True
-RUK,RUK,True
-PC,PC,True
-RUK,RUK,True
-Con,Con,True
-RUK,RUK,True
-Ind,Ind,True
-Green,Green,True
-RUK,RUK,True
-Con,Con,True
-Lab,Ind,False
-PC,PC,True
-Con,Con,True
-PC,PC,True
-PC,PC,True
-LD,LD,True
-Lab,Lab,True
-Ind,Ind,True
-PC,PC,True
-PC,PC,True
-Con,Con,True
-RUK,RUK,True
-Con,Con,True
-LD,LD,True
-RUK,RUK,True
-Con,Con,True
-Ind,Ind,True
-RUK,RUK,True
-Con,Con,True
-Green,Green,True
-Ind,Ind,True
-RUK,RUK,True
-Lab,Lab,True
-Green,Green,True
-PC,PC,True
-LD,LD,True
-Lab,Con,False
-LD,LD,True
-Lab,Lab,True
-Green,Green,True
-Green,Green,True
-RUK,RUK,True
-Lab,LD,False
-LD,LD,True
-LD,LD,True
-Con,Con,True
-Green,Green,True
-Green,Green,True
-Green,Green,True
-Ind,Ind,True
-Green,Green,True
-Con,Con,True
-Con,Con,True
-Lab,Lab,True
-PC,PC,True
-LD,Con,False
-Lab,Con,False
-LD,LD,True
-LD,LD,True
-Green,Green,True
-Green,Green,True
-Ind,Ind,True
-RUK,RUK,True
-Ind,Ind,True
-RUK,RUK,True
-Lab,Lab,True
-RUK,RUK,True
-LD,LD,True
-PC,PC,True
-Con,Con,True
-PC,PC,True
-PC,PC,True
-RUK,RUK,True
-RUK,RUK,True
-RUK,RUK,True
-Ind,Ind,True
-Ind,Ind,True
-RUK,RUK,True
-Ind,Ind,True
-RUK,RUK,True
-PC,PC,True
-Green,Green,True
-Lab,Lab,True
-PC,PC,True
-Green,Green,True
-LD,LD,True
-Ind,Ind,True
-Lab,Lab,True
-PC,PC,True
-PC,PC,True
-Ind,Ind,True
-Ind,Ind,True
-PC,PC,True
-LD,LD,True
-Lab,LD,False
-PC,PC,True
-Lab,Lab,True
-LD,LD,True
-PC,PC,True
-RUK,RUK,True
-Green,Green,True
-Lab,Lab,True
-Lab,Lab,True
-Lab,Lab,True
-RUK,RUK,True
-Green,Green,True
-PC,PC,True
-RUK,RUK,True
-RUK,RUK,True
-Ind,Ind,True
-Green,Green,True
-Green,Green,True
-PC,PC,True
-LD,LD,True
-Con,Lab,False
-LD,LD,True
-Con,Con,True
-Con,Con,True
-LD,LD,True
-PC,PC,True
-RUK,RUK,True
-LD,LD,True
-Green,Green,True
-Con,Con,True
-PC,PC,True
-Con,Con,True
-PC,PC,True
-LD,LD,True
-LD,LD,True
-Green,Green,True
-Ind,Ind,True
-PC,PC,True
-Green,Green,True
-Green,Green,True
-Con,Con,True
-Ind,Ind,True
-RUK,RUK,True
-LD,LD,True
-Ind,Ind,True
-RUK,RUK,True
-PC,PC,True
-RUK,RUK,True
-LD,LD,True
-RUK,RUK,True
-Lab,Con,False
-LD,LD,True
-RUK,RUK,True
-RUK,RUK,True
-LD,LD,True
-Con,Con,True
-Lab,Lab,True
-PC,PC,True
-Ind,Ind,True
-LD,LD,True
-Ind,Ind,True
-PC,PC,True
-RUK,RUK,True
-Ind,Ind,True
-LD,LD,True
-PC,PC,True
-LD,LD,True
-Lab,Lab,True
-RUK,RUK,True
-Green,Green,True
-Lab,Lab,True
-RUK,RUK,True
-Con,Con,True
-Con,Con,True
-Lab,LD,False
-LD,Ind,False
-Con,Con,True
-Green,Green,True
-RUK,RUK,True
-RUK,RUK,True
-LD,LD,True
-Green,Green,True
-Lab,Lab,True
-Green,Green,True
-PC,PC,True
-RUK,RUK,True
-Green,Green,True
-RUK,RUK,True
-Lab,Ind,False
-Green,Green,True
-Ind,Ind,True
-Lab,LD,False
-LD,LD,True
-Lab,Lab,True
-RUK,RUK,True
-Ind,Ind,True
-PC,PC,True
-Lab,Con,False
-Green,Green,True
-LD,LD,True
-RUK,RUK,True
-Lab,Lab,True
-Lab,Lab,True
-Green,Green,True
-RUK,RUK,True
-Con,Con,True
-Lab,Lab,True
-LD,LD,True
-Lab,Lab,True
-Ind,Ind,True
-RUK,RUK,True
-Con,Con,True
-PC,PC,True
-LD,LD,True
-LD,LD,True
-RUK,RUK,True
-PC,PC,True
-Green,Green,True
-Ind,Ind,True
-Con,Con,True
-Ind,Ind,True
-LD,LD,True
-Green,Green,True
-LD,LD,True
-PC,PC,True
-Lab,LD,False
-Lab,Lab,True
-Con,Con,True
-PC,PC,True
-Green,Green,True
-Ind,Ind,True
-Lab,LD,False
-LD,LD,True
-Ind,Ind,True
-PC,PC,True
-RUK,RUK,True
-Lab,Con,False
-PC,PC,True
-Con,Con,True
-Con,LD,False
-PC,PC,True
-Lab,Lab,True
-Lab,Lab,True
-Lab,Con,False
-RUK,RUK,True
-Green,Green,True
-RUK,RUK,True
-Ind,Ind,True
-Con,Con,True
-PC,PC,True
-RUK,RUK,True
-LD,LD,True
-LD,LD,True
-Con,Con,True
-PC,PC,True
-RUK,RUK,True
-Ind,Ind,True
-PC,PC,True
-Green,Green,True
-RUK,RUK,True
-Green,Green,True
-Green,Green,True
-Green,Green,True
-PC,PC,True
-PC,PC,True
-Ind,Ind,True
-Con,Lab,False
-RUK,RUK,True
-Ind,Ind,True
-LD,LD,True
-PC,PC,True
-Green,Green,True
-RUK,RUK,True
-Lab,Lab,True
-RUK,RUK,True
-PC,PC,True
-Lab,Lab,True
-PC,PC,True
-Green,Green,True
-RUK,RUK,True
-PC,PC,True
-RUK,RUK,True
-PC,PC,True
-LD,LD,True
-PC,PC,True
-RUK,RUK,True
-Con,Con,True
-Green,Green,True
-Con,Con,True
-LD,LD,True
-Green,Green,True
-PC,PC,True
-PC,PC,True
-RUK,RUK,True
-Ind,Ind,True
-RUK,RUK,True
-Green,Green,True
-LD,LD,True
-LD,LD,True
-Ind,Ind,True
-Green,Green,True
-RUK,RUK,True
-Lab,Lab,True
-RUK,RUK,True
-Lab,Lab,True
-RUK,RUK,True
-Con,Lab,False
-Green,Green,True
-Con,Con,True
-PC,PC,True
-Green,Green,True
-Green,Green,True
-PC,PC,True
-LD,LD,True
-RUK,RUK,True
-Con,Con,True
-RUK,RUK,True
-LD,LD,True
-Green,Green,True
-Con,Con,True
-RUK,RUK,True
-LD,LD,True
-Con,Con,True
-Con,Con,True
-Lab,Lab,True
-Lab,LD,False
-Lab,LD,False
-RUK,RUK,True
-Green,Green,True
-Con,Con,True
-Lab,Lab,True
-Con,Con,True
-Green,Green,True
-Lab,Lab,True
-Con,Con,True
-Lab,Lab,True
-PC,PC,True
-Con,Con,True
-LD,LD,True
-Green,Green,True
-Lab,Lab,True
-PC,PC,True
-RUK,RUK,True
-PC,PC,True
-Con,Con,True
-RUK,RUK,True
-Con,Con,True
-Lab,Lab,True
-Con,Con,True
-PC,PC,True
-Green,Green,True
-Green,Green,True
-LD,LD,True
-Ind,Ind,True
-Con,Con,True
-Ind,Ind,True
-RUK,RUK,True
-LD,LD,True
-Lab,Lab,True
-Ind,Ind,True
-RUK,RUK,True
-Con,Con,True
-Ind,Ind,True
-Ind,Ind,True
-Con,Con,True
-LD,LD,True
-LD,LD,True
-Lab,Lab,True
-LD,LD,True
-Ind,Ind,True
-PC,PC,True
-LD,Lab,False
-Ind,Ind,True
-Lab,Lab,True
-PC,PC,True
-PC,PC,True
-RUK,RUK,True
-RUK,RUK,True
-Ind,Ind,True
-LD,LD,True
-Green,Green,True
-Ind,Ind,True
-Lab,RUK,False
-Ind,Ind,True
-Green,Green,True
-RUK,RUK,True
-Lab,Con,False
-LD,LD,True
-Lab,Con,False
-Ind,Ind,True
-RUK,RUK,True
-RUK,RUK,True
-LD,LD,True
-PC,PC,True
-RUK,RUK,True
-RUK,RUK,True
-RUK,RUK,True
-Con,Lab,False
-Lab,Lab,True
-Ind,Ind,True
-RUK,RUK,True
-LD,LD,True
-Con,Con,True
-Ind,Ind,True
-Lab,Lab,True
-Lab,Con,False
-LD,LD,True
-LD,LD,True
-Lab,Con,False
-RUK,RUK,True
-Con,Con,True
-Lab,Ind,False
-Ind,Ind,True
-RUK,RUK,True
-Con,Lab,False
-RUK,RUK,True
-Ind,Ind,True
-Con,Con,True
-PC,PC,True
-Con,Con,True
-Con,Con,True
-RUK,RUK,True
-PC,PC,True
-Con,Lab,False
-Con,Con,True
-PC,PC,True
-RUK,RUK,True
-LD,LD,True
-Con,Con,True
-Lab,RUK,False
-Green,Green,True
-Ind,Ind,True
-LD,LD,True
-LD,LD,True
-RUK,RUK,True
-PC,PC,True
-Lab,LD,False
-Ind,Ind,True
-Lab,Con,False
-LD,LD,True
-Ind,Ind,True
-Lab,Con,False
-Con,LD,False
-Lab,Lab,True
-LD,LD,True
-Con,Con,True
-Green,Green,True
-Green,Green,True
-Ind,Ind,True
-RUK,RUK,True
-Con,Lab,False
-LD,LD,True
-Con,Con,True
-Green,Green,True
+PCON25CD,PCON25NM,Raw Truth,Truth,Housing - Prediction,EEO - Prediction,SPIRH - Prediction,NatPop - Prediction,Consolidated Prediction
+E14001064,Aldridge-Brownhills,1,Con,Con,Con,Con,Con,Con
+E14001067,Arundel and South Downs,1,Con,Con,Con,Con,Con,Con
+E14001070,Ashton-under-Lyne,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001071,Aylesbury,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001072,Banbury,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001089,Bexleyheath and Crayford,0,Lab,LD,Lab,LD,Lab,LD
+E14001090,Bicester and Woodstock,2,LD,LD,LD,LD,LD,LD
+E14001099,Birmingham Selly Oak,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001114,Boston and Skegness,4,RUK,RUK,RUK,RUK,RUK,RUK
+W07000086,Bridgend,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001127,Bridlington and The Wolds,1,Con,Con,Con,Con,Con,Con
+E14001129,Brighton Kemptown and Peacehaven,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001130,Brighton Pavilion,3,Green,Green,Green,Green,Green,Green
+E14001132,Bristol East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001133,Bristol North East,0,Lab,Lab,Lab,Con,PC,Lab
+E14001134,Bristol North West,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001135,Bristol South,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001136,Broadland and Fakenham,1,Con,Con,Con,Con,Con,Con
+E14001138,Bromsgrove,1,Con,Con,Con,Con,Con,Con
+E14001139,Broxbourne,1,Con,Con,Con,Con,Con,Con
+E14001140,Broxtowe,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001141,Buckingham and Bletchley,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001143,Burton and Uttoxeter,0,Lab,Lab,Lab,Lab,Lab,Lab
+W07000087,Caerfyrddin,5,PC,PC,PC,PC,PC,PC
+E14001152,Carlisle,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001155,Central Devon,1,Con,Con,Con,Con,Con,Con
+E14001159,Chelmsford,2,LD,LD,LD,LD,LD,LD
+E14001160,Chelsea and Fulham,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001168,Chippenham,2,LD,LD,LD,LD,LD,LD
+E14001180,Coventry East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001181,Coventry North West,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001189,Dagenham and Rainham,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001194,Derby South,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001197,Didcot and Wantage,2,LD,LD,LD,LD,LD,LD
+E14001202,Dover and Deal,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001204,Dudley,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001211,Easington,0,Lab,Con,Con,Con,Lab,Con
+E14001213,East Ham,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001215,East Surrey,1,Con,Con,Con,Con,Con,Con
+E14001224,Ely and East Cambridgeshire,2,LD,LD,LD,LD,LD,LD
+E14001232,Exmouth and Exeter East,1,Con,Con,Con,Con,Con,Con
+E14001236,Feltham and Heston,0,Lab,LD,Con,LD,Con,Con
+E14001240,Forest of Dean,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001243,Gainsborough,1,Con,Con,Con,Con,Con,Con
+E14001247,Glastonbury and Somerton,2,LD,LD,LD,LD,LD,LD
+E14001251,Gorton and Denton,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001252,Gosport,1,Con,Con,Con,Con,Con,Con
+E14001255,Great Grimsby and Cleethorpes,0,Lab,Ind,Lab,Lab,Ind,Ind
+E14001256,Great Yarmouth,4,RUK,RUK,RUK,RUK,RUK,RUK
+E14001265,Hampstead and Highgate,0,Lab,Con,RUK,LD,Lab,Con
+E14001278,Hemel Hempstead,0,Lab,Con,Lab,Ind,Con,Con
+E14001281,Hereford and South Herefordshire,1,Con,Con,Con,Con,Con,Con
+E14001282,Herne Bay and Sandwich,1,Con,Con,Con,Con,Con,Con
+E14001285,Hexham,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001291,Honiton and Sidmouth,2,LD,LD,LD,LD,LD,LD
+E14001297,Huddersfield,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001304,Isle of Wight West,0,Lab,Con,Con,RUK,LD,Con
+E14001306,Islington South and Finsbury,0,Lab,LD,Con,Lab,LD,LD
+E14001308,Keighley and Ilkley,1,Con,Con,Con,Con,Con,Con
+E14001311,Kettering,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001319,Leeds Central and Headingley,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001325,Leeds West and Pudsey,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001327,Leicester South,6,Ind,Ind,Ind,Ind,Ind,Ind
+E14001331,Lewisham East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001336,Lincoln,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001356,Melksham and Devizes,2,LD,LD,LD,LD,LD,LD
+E14001357,Melton and Syston,1,Con,Con,Con,Con,Con,Con
+E14001365,Mid Norfolk,1,Con,LD,LD,LD,Con,LD
+W07000102,Montgomeryshire and Glyndŵr,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001373,New Forest East,1,Con,Con,Con,Con,Con,Con
+E14001374,New Forest West,1,Con,Con,Con,Con,Con,Con
+E14001377,Newcastle upon Tyne Central and West,0,Lab,Lab,Lab,Lab,Lab,Lab
+W07000104,Newport East,0,Lab,Lab,Lab,Lab,Lab,Lab
+W07000105,Newport West and Islwyn,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001385,North Cornwall,2,LD,LD,LD,LD,LD,LD
+E14001399,North Somerset,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001404,North West Leicestershire,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001408,Norwich North,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001419,Oxford East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001427,Plymouth Sutton and Devonport,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001431,Portsmouth North,0,Lab,Lab,Con,Con,Con,Con
+E14001432,Portsmouth South,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001436,Rawmarsh and Conisbrough,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001437,Rayleigh and Wickford,1,Con,Con,Con,Con,Con,Con
+E14001438,Reading Central,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001440,Redcar,0,Lab,Lab,Lab,Con,LD,Lab
+E14001442,Reigate,1,Con,Con,Con,Con,Con,Con
+E14001459,Salford,0,Lab,Lab,LD,LD,LD,LD
+E14001468,Sheffield Hallam,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001470,Sheffield South East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001504,Southport,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001506,Spen Valley,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001507,St Albans,2,LD,LD,LD,LD,LD,LD
+E14001515,Stalybridge and Hyde,0,Lab,Lab,Lab,LD,Con,Lab
+E14001516,Stevenage,0,Lab,Lab,Lab,Con,Lab,Lab
+E14001523,"Stone, Great Wyrley and Penkridge",1,Con,Con,Con,Con,Lab,Con
+E14001543,The Wrekin,1,Con,Lab,LD,Con,Con,Con
+E14001545,Thornbury and Yate,2,LD,Lab,LD,LD,LD,LD
+E14001548,Tiverton and Minehead,2,LD,LD,LD,LD,LD,LD
+E14001549,Tonbridge,1,Con,Con,Con,Con,Con,Con
+E14001550,Tooting,0,Lab,Lab,Lab,Lab,Lab,Lab
+W07000109,Torfaen,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001557,Tynemouth,0,Lab,Lab,LD,LD,LD,LD
+E14001565,Warrington South,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001566,Warwick and Leamington,0,Lab,Lab,LD,Lab,Lab,Lab
+E14001570,Weald of Kent,1,Con,Con,Con,Con,Con,Con
+E14001571,Wellingborough and Rushden,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001575,West Dorset,2,LD,LD,LD,LD,LD,LD
+E14001579,West Worcestershire,1,Con,Con,Con,Con,Con,Con
+E14001586,Wimbledon,2,LD,LD,LD,LD,LD,LD
+E14001589,Wirral West,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001594,Wolverhampton North East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001596,Wolverhampton West,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001602,Wythenshawe and Sale East,0,Lab,Lab,Lab,Lab,Lab,Lab
+E14001603,Yeovil,2,LD,LD,LD,LD,LD,LD
