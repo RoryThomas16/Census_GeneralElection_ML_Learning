@@ -5,7 +5,7 @@ E14001070,Ashton-under-Lyne,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001071,Aylesbury,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001072,Banbury,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001089,Bexleyheath and Crayford,0,Lab,2,LD,0,Lab,2,LD,0,Lab,LD,2
-E14001090,Bicester and Woodstock,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
+E14001090,Bicester and Woodstock,2,LD,0,Lab,2,LD,2,LD,2,LD,LD,2
 E14001099,Birmingham Selly Oak,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001114,Boston and Skegness,4,RUK,4,RUK,4,RUK,4,RUK,4,RUK,RUK,4
 W07000086,Bridgend,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
@@ -25,7 +25,7 @@ E14001143,Burton and Uttoxeter,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 W07000087,Caerfyrddin,5,PC,5,PC,5,PC,5,PC,5,PC,PC,5
 E14001152,Carlisle,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001155,Central Devon,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
-E14001159,Chelmsford,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
+E14001159,Chelmsford,2,LD,2,LD,2,LD,0,Lab,2,LD,LD,2
 E14001160,Chelsea and Fulham,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001168,Chippenham,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
 E14001180,Coventry East,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
@@ -35,12 +35,12 @@ E14001194,Derby South,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001197,Didcot and Wantage,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
 E14001202,Dover and Deal,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001204,Dudley,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
-E14001211,Easington,0,Lab,1,Con,1,Con,1,Con,0,Lab,Con,1
+E14001211,Easington,0,Lab,3,Green,1,Con,1,Con,0,Lab,Con,1
 E14001213,East Ham,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001215,East Surrey,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001224,Ely and East Cambridgeshire,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
 E14001232,Exmouth and Exeter East,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
-E14001236,Feltham and Heston,0,Lab,2,LD,1,Con,2,LD,1,Con,Con,1
+E14001236,Feltham and Heston,0,Lab,1,Con,1,Con,0,Lab,1,Con,Con,1
 E14001240,Forest of Dean,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001243,Gainsborough,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001247,Glastonbury and Somerton,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
@@ -48,16 +48,16 @@ E14001251,Gorton and Denton,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001252,Gosport,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001255,Great Grimsby and Cleethorpes,0,Lab,6,Ind,0,Lab,0,Lab,6,Ind,Ind,6
 E14001256,Great Yarmouth,4,RUK,4,RUK,4,RUK,4,RUK,4,RUK,RUK,4
-E14001265,Hampstead and Highgate,0,Lab,1,Con,4,RUK,2,LD,0,Lab,Con,1
-E14001278,Hemel Hempstead,0,Lab,1,Con,0,Lab,6,Ind,1,Con,Con,1
+E14001265,Hampstead and Highgate,0,Lab,1,Con,2,LD,2,LD,0,Lab,LD,2
+E14001278,Hemel Hempstead,0,Lab,1,Con,0,Lab,6,Ind,0,Lab,Lab,0
 E14001281,Hereford and South Herefordshire,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001282,Herne Bay and Sandwich,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001285,Hexham,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001291,Honiton and Sidmouth,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
 E14001297,Huddersfield,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
-E14001304,Isle of Wight West,0,Lab,5,PC,1,Con,4,RUK,2,LD,Con,1
-E14001306,Islington South and Finsbury,0,Lab,2,LD,1,Con,0,Lab,2,LD,LD,2
-E14001308,Keighley and Ilkley,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
+E14001304,Isle of Wight West,0,Lab,1,Con,1,Con,1,Con,2,LD,Con,1
+E14001306,Islington South and Finsbury,0,Lab,2,LD,0,Lab,0,Lab,2,LD,LD,2
+E14001308,Keighley and Ilkley,1,Con,1,Con,4,RUK,1,Con,1,Con,Con,1
 E14001311,Kettering,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001319,Leeds Central and Headingley,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001325,Leeds West and Pudsey,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
@@ -84,7 +84,7 @@ E14001432,Portsmouth South,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001436,Rawmarsh and Conisbrough,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001437,Rayleigh and Wickford,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001438,Reading Central,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
-E14001440,Redcar,0,Lab,0,Lab,0,Lab,1,Con,2,LD,Lab,0
+E14001440,Redcar,0,Lab,0,Lab,0,Lab,0,Lab,2,LD,Lab,0
 E14001442,Reigate,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
 E14001459,Salford,0,Lab,0,Lab,2,LD,2,LD,2,LD,LD,2
 E14001468,Sheffield Hallam,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
@@ -93,9 +93,9 @@ E14001504,Southport,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001506,Spen Valley,0,Lab,0,Lab,0,Lab,0,Lab,0,Lab,Lab,0
 E14001507,St Albans,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
 E14001515,Stalybridge and Hyde,0,Lab,0,Lab,0,Lab,2,LD,1,Con,Lab,0
-E14001516,Stevenage,0,Lab,0,Lab,0,Lab,1,Con,0,Lab,Lab,0
+E14001516,Stevenage,0,Lab,1,Con,0,Lab,1,Con,0,Lab,Con,1
 E14001523,"Stone, Great Wyrley and Penkridge",1,Con,1,Con,1,Con,1,Con,0,Lab,Con,1
-E14001543,The Wrekin,1,Con,0,Lab,2,LD,1,Con,1,Con,Con,1
+E14001543,The Wrekin,1,Con,0,Lab,1,Con,2,LD,1,Con,Con,1
 E14001545,Thornbury and Yate,2,LD,0,Lab,2,LD,2,LD,2,LD,LD,2
 E14001548,Tiverton and Minehead,2,LD,2,LD,2,LD,2,LD,2,LD,LD,2
 E14001549,Tonbridge,1,Con,1,Con,1,Con,1,Con,1,Con,Con,1
